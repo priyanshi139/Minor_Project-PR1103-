@@ -12,7 +12,6 @@ df.info()
 df.describe()
 df = df.drop_duplicates()
 print("After removing duplicates:", df.shape)
-# Drop fully empty columns
 df = df.drop(columns=[
     'Temp_80m_C',
     'Temp_120m_C',
