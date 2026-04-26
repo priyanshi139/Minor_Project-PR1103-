@@ -1,5 +1,6 @@
 # Minor_Project-PR1103-
 # AI-Based Air Quality and Health Risk Monitoring System
+<img width="1060" height="1000" alt="poster_landscape" src="https://github.com/user-attachments/assets/405762be-b959-4842-906a-6ee807c64521" />
 
 ##  Project Overview
 
