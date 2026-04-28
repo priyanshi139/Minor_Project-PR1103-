@@ -2,6 +2,10 @@
 # AI-Based Air Quality and Health Risk Monitoring System
 <img width="1060" height="1000" alt="poster_landscape" src="https://github.com/user-attachments/assets/405762be-b959-4842-906a-6ee807c64521" />
 
+## 🚀 Live Demo
+
+👉 **[Click here to view the Dashboard](https://huggingface.co/spaces/priyanshi1319/AQI-Dashboard)**
+
 ##  Project Overview
 
 This project presents an **AI-powered dashboard** for monitoring air quality and predicting future pollution levels. It combines **data analytics, machine learning (LSTM), and interactive visualization** to provide meaningful insights into environmental conditions and health risks.
