@@ -191,4 +191,4 @@ This project demonstrates how **Artificial Intelligence can be used to transform
 |----------|------|
 | 🌐 Live Dashboard | [Click Here](https://huggingface.co/spaces/priyanshi1319/AQI-Dashboard) |
 | 📊 Dataset | [Click Here](https://drive.google.com/file/d/1uk0XHNkWyjD3yYgd2coZOnFladmpBvcX/view?usp=drive_link) |
-| 🤖 Trained Models | [Click Here](https://drive.google.com/drive/folders/1zoeeQDuZoH1lekthmuG_8BtU3NbZBkBy?usp=sharing) |
+| 🤖 Documents | [Click Here](https://drive.google.com/drive/folders/1zoeeQDuZoH1lekthmuG_8BtU3NbZBkBy?usp=sharing) |
