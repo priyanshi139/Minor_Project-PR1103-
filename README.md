@@ -1,7 +1,6 @@
 # Minor_Project-PR1103-
 # AI-Based Air Quality and Health Risk Monitoring System
-<img width="1524" height="704" alt="Gemini_Generated_Image_x8weogx8weogx8we" src="https://github.com/user-attachments/assets/6de8896c-ce8b-4e4f-bca0-e4496a67412a" />
-
+<img width="1524" height="704" alt="Gemini_Generated_Image_lx2d4jlx2d4jlx2d" src="https://github.com/user-attachments/assets/f0c423d9-73de-43a7-8130-8715f9dc05b8" />
 
 ## 🚀 Live Demo
 
